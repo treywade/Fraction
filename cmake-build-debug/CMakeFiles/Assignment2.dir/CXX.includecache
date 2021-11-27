@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trey/CLionProjects/Assignment2/fraction_18gdw.cpp
+iostream
+-
+fraction_18gdw.h
+C:/Users/trey/CLionProjects/Assignment2/fraction_18gdw.h
+
+C:/Users/trey/CLionProjects/Assignment2/fraction_18gdw.h
+
